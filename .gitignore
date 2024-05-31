@@ -1,0 +1,75 @@
+# Ignore Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.vscode
+*.vssettings
+*.suo
+*.cache
+*.pdb
+*.pidb
+*.log
+*.bin
+*.exe
+
+# Ignore NuGet packages
+## .NET Core ##
+*.swp
+*.*~
+*~
+*.lock.json
+.idea/
+*.DS_Store
+*.log
+*.sln.docstates
+*.bak
+*.vscode/
+.vscode/
+__pycache__/
+*.code-workspace
+.vscode-server/
+.localhistory/
+.DS_Store
+
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Ignore MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Ignore Visual Studio code coverage files
+*.coverage
+*.coveragexml
+
+# Ignore ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Ignore Rider files
+.idea/
+*.sln.iml
+
+# Ignore Rider, Visual Studio, and VS Code folders
+.vscode/
+.idea/
+*.sln.iml
+
+# Ignore package files
+*.nupkg
+*.pup
+*.pupstate
